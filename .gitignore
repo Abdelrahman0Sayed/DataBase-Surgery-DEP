@@ -47,6 +47,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 /API Endpoints/appsettings.json
-DataBaseProject.csproj
-DataBaseProject.csproj.user
 
